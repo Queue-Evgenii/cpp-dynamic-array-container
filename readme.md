@@ -14,6 +14,7 @@ A simple, self-implemented dynamic array (similar to `std::vector`) in C++, desi
 - Template-based for any data type
 
 ## 📁 Project Structure
+```text
 .
 ├── src/
 │ ├── main.cpp # Example usage and test
@@ -21,6 +22,7 @@ A simple, self-implemented dynamic array (similar to `std::vector`) in C++, desi
 ├── Makefile # For building the project
 ├── Dockerfile # For building the project
 └── README.md
+```
 
 ## 🛠️ Build & Run
 
